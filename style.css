@@ -11,3 +11,10 @@
 .ui.fluid.image {
   margin-top: 30px;
 }
+
+.black-background {
+  background-color: #292929;
+  height: 400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
